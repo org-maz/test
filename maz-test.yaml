@@ -10,7 +10,7 @@ info:
 servers:
 - url: http://orders.sock-shop
 paths:
-  "/orders":
+  "/orders-chages-breaking":
     post:
       tags:
       - orders
